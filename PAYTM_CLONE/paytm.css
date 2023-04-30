@@ -1,0 +1,442 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Noto+Sans:ital,wght@0,600;1,400&family=Style+Script&family=Ubuntu&display=swap');
+body{
+    margin: 0px;
+    font-family:'Poppins', sans-serif ;
+    width: fit-content;
+   
+}
+
+.navbar{
+    height: 85px;
+    width: 1500px;
+    display: flex;
+}
+.left{
+    width: 15%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25px;
+}
+
+.middle{
+    width: 194%;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 30px;
+   
+}
+.right{
+    width: 28%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.sub_links{
+ padding: 15px;
+font-size: 40px;
+font-weight: bold;
+}
+.account{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00baf2;
+    width: 125px;
+    border-radius: 17px;
+    color:white;
+    font-weight: bold;
+    
+}
+.avatar{
+    padding-left: 20px;
+    height: 35px;
+}
+
+.img{
+    height: 84px;
+   
+}
+.KYC{
+    height: 40px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f6f6f6;
+    font-size: 18px;
+}
+.logo{
+    border-radius: 50px;
+    margin-right: 53px;
+    
+}
+.apple{
+    width: 30px; 
+    height: 20px;
+    background-color: #f6f6f6;
+}
+.android{
+    width: 30px; 
+    height: 20px;
+    background-color: #f6f6f6;
+}
+
+
+.right_logo {
+    height: 550px;
+    display: flex;
+    margin-left: 699px;
+    width: 574px;
+    margin-bottom: 500px;
+}
+
+.sec_2
+{
+    width: 30%;
+    height: 700px;
+    display: flex;
+    padding-top: 40px;
+  
+}
+.left_section{
+    width: 50%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+.right_section{
+width: 50%;
+height: 100px;
+display: flex;
+justify-content:flex-end;
+padding: 100%;
+padding-right: 0;
+}
+
+.btn {
+    padding: 0px 0px;
+    height: 38px;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+    background-color: black;
+    align-items: center;
+    width: 253px;
+    justify-content: space-evenly;
+}
+
+.account:hover{
+    background-color:#02386e;
+}
+
+
+.btn:hover{
+    background-color:#f6f6f6;
+    color:black;
+}
+
+.sec_2{
+    width: 30px;
+    height: 40px;
+    padding-bottom: 500px;
+}
+.inner_section{
+    padding-top: 80px;
+    width: 1200px;
+    font-size: larger;
+}
+.inner_section2{
+   
+   width: 1200px;
+   font-size: larger;
+}
+.recharge_section{
+margin-top: 22px;
+height: fit-content;
+background-color:#00baf2;
+display: flex;
+width: 800px;
+}.recharge_section {
+    margin-top: 22px;
+    height: fit-content;
+    background-color: #00baf2;
+    display: flex;
+    width: 1553px;
+}
+.rc-child {
+    width: 129%;
+    background-color: #00baf2;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.rc-child a{
+    text-decoration: none;
+    color:#f6f6f6;
+}
+.booking_section{
+    width: 1553px;
+    background-color:rgb(15,74,138);
+    height: 340px;
+    margin-bottom: 0;
+    display: flex;
+}
+.rc-child2 {
+    width: 129%;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #f6f6f6;
+}
+.rc-child a:hover{
+background-color: rgb(15,74,138);;
+}
+.rc-child2 a{
+    text-decoration: none;
+    color:#f6f6f6;
+}
+.rc-child2 a:hover{
+    background-color:#00baf2 ;
+}
+.heading1{
+    color: #f6f6f6;
+}
+.heading2{
+    color: #f6f6f6;
+}
+
+/* .inner-div{
+  
+    color: #f6f6f6;
+    padding-left: 10px;
+    padding-right: 10px;
+} */
+
+.fa-duotone fa-graduation-cap{
+    height: 30px;
+}
+.btn11 {
+    padding: 0 24px;
+    height: 44px;
+    font-size: 15px;
+}
+.btn11:hover{
+    background-color: #00baf2;
+}
+
+
+.sec_card{
+    display: flex;
+    padding-top: 52px;
+    padding: 0 0 48px;
+    position: relative;
+    border-radius: 90;
+    width: 1411px;
+}
+ 
+    
+   
+
+
+.right_logo-1 {
+    height: 550px;
+    display: flex;
+    margin-left: 555px;
+    margin-bottom: 0px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.btn111 {
+    width: 90%;
+    height: 76px;
+    border-radius: 40px;
+    color: white;
+    background-color: black;
+}
+.btn111:hover{
+    background-color: #00baf2;
+}
+.bottom{
+    margin-top: 22px;
+    width: 1553px;
+}
+.image1111{
+    width: 1553px;
+    display: flex;
+    height:fit-content;
+    margin-top: 50px;
+}
+.hed{
+font-size: 5em;
+font-weight:bold;
+}
+.bottom{
+    text-align: center;
+}
+.sec_card {
+    font-size: 30px;
+    background-color: rgba(239, 239, 239, 0.6);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7%;
+    padding: 7%;
+    width: 1386px;
+}
+.sec_card_div1 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    border-radius: 10px;
+    margin-top: 3%;
+}
+.div1 p {
+    font-size: 17px;
+}
+.div1 h1 {
+    font-size: 32px;
+    margin-bottom: 5%;
+}
+.div2 p {
+    font-size: 17px;
+}
+.div2 h1 {
+    font-size: 32px;
+    margin-bottom: 5%;
+}
+
+.sec_card_div2 {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    border-radius: 10px;
+    margin-top: 3%;
+}
+.sec_card_div3 {
+     
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    border-radius: 10px;
+    margin-top: 3%;
+}
+.sec_card_div4 {
+    display: flex;
+    border: 1px solid white;
+}
+.div41 {
+    background-color: white;
+    margin-top: 4%;
+    margin-right: 7%;
+    padding: 7%;
+    padding-bottom: 0%;
+}
+.div42{
+    background-color: white;
+    margin-top: 4%;
+    margin-right: 7%;
+    padding: 7%;
+    padding-bottom: 0%;
+}
+
+.sec_card_div5 {
+    font-size: 30px;
+    background-color: rgba(239, 239, 239, 0.6);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7%;
+    padding: 7%;
+}
+.sec6 {
+    font-family: 'Poppins', sans-serif;
+}
+.paytm {
+    font-size: 43px;
+    margin-top: 8%;
+    margin-bottom: 4%;
+    margin-left: 5%;
+}
+.sec6div {
+    margin-left: 5%;
+    margin-right: 4%;
+    display: flex;
+    justify-content: space-between;
+}
+.sec7 {
+    background-image: url(https://assetscdn1.paytm.com/frontendcommonweb/69678bc5.png);
+    background-size: 100%;
+    display: flex;
+    padding: 5% 10% 10% 3%;
+    justify-content: space-between;
+}
+.goals {
+    font-size: 38px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 2%;
+}
+.div7 p {
+    margin-bottom: 8%;
+    font-size: 20px;
+}
+.div7 a {
+    background-color: #02386e;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    width: 35%;
+    padding: 2%;
+}
+.sec8 {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    margin: 7% 0% 7% 5%;
+}
+.sec9 {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5%;
+    margin-right: 4%;
+    display: flex;
+    justify-content: space-between;
+}
+.qwe{
+   margin-bottom: 90px ;
+}
+.sec_card2{
+    font-size: 30px;
+    background-color: rgba(239, 239, 239, 0.6);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7%;
+    padding: 7%;
+    width: 1386px;
+}
+.sec_card3{
+    font-size: 30px;
+    background-color: rgba(239, 239, 239, 0.6);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7%;
+    padding: 7%;
+    width: 1386px;
+}
+.sec_card4{
+    font-size: 30px;
+    background-color: rgba(239, 239, 239, 0.6);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7%;
+    padding: 7%;
+    width: 1386px;
+}

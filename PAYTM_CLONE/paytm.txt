@@ -1,0 +1,2 @@
+login avatar : "https://as2.ftcdn.net/v2/jpg/04/62/63/65/1000_F_462636502_9cDAYuyVvBY4qYJlHjW7vqar5HYS8h8x.jpg"
+paytm logo: "https://image01.realme.net/general/20190821/1566357380566.jpg"
